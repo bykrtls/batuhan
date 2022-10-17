@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @bykrtls
-- 👀 I’m interested in Web Front End/Back, Metin2
-- 📫 How to reach me batuhanyasarkurtulus@gmail.com
